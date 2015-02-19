@@ -1,6 +1,6 @@
 <?php
 
-  include "db.php";
+  include "../db.php";
 
   // Some style :D
   echo "<style>a{margin-right:30px;}textarea{height:250px;width:600px;}table{float:left;margin-right:80px;}span{color:red;}";
